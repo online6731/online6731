@@ -9,6 +9,14 @@
     <img src="https://img.shields.io/badge/Email-mohammad.parsian%40gmail.com-blue?style=flat-square&logo=gmail" alt="Email">
   </a>
   &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/m-parsian/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://t.me/M_Parsian" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-Contact-blue?style=flat-square&logo=telegram&logoColor=white" alt="Telegram">
+  </a>
+  &nbsp;&nbsp;
   <a href="https://github.com/online6731">
     <img src="https://img.shields.io/github/followers/online6731?label=Followers&style=social" alt="Followers">
   </a>
