@@ -1,20 +1,16 @@
-# 🧠 Hi there, I'm Mohammad Parsian! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7W/giphy.gif" width="28">
+# 🌟 Hi there, I'm Mohammad Parsian! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7W/giphy.gif" width="28">
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Cognitive+Science+Researcher;AI+%26+Deep+Learning+Engineer;Neuroimaging+Data+Analyst;Computer+Engineer&font=Fira+Code&center=true&width=500&height=50&color=25a4d3" alt="Typing SVG">
 </p>
 
 <p align="center">
-  <a href="mailto:parsian.cog@gmail.com">
-    <img src="https://img.shields.io/badge/Email-parsian.cog%40gmail.com-blue?style=flat-square&logo=gmail" alt="Email">
+  <a href="mailto:mohammad.parsian@gmail.com">
+    <img src="https://img.shields.io/badge/Email-mohammad.parsian%40gmail.com-blue?style=flat-square&logo=gmail" alt="Email">
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/online6731">
     <img src="https://img.shields.io/github/followers/online6731?label=Followers&style=social" alt="Followers">
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://kaggle.com/online6731" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-Profile-blue?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle">
   </a>
 </p>
 
@@ -50,19 +46,6 @@ I am a **Cognitive Science Researcher** and **Machine Learning Engineer** with a
 | **Data Analysis & Processing** | <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/Seaborn-4C566A?style=flat-square" /> <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square" /> |
 | **Psychological Toolbox** | <img src="https://img.shields.io/badge/Psychtoolbox-MATLAB-blue?style=flat-square" /> <img src="https://img.shields.io/badge/PsychoPy-Python-green?style=flat-square" /> |
 | **Research & Dev Tools** | <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white" /> <img src="https://img.shields.io/badge/Zotero-CC0000?style=flat-square&logo=zotero&logoColor=white" /> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" /> |
-
----
-
-### 📚 Manuscripts In Progress
-
-*   **Classification of perceptual emotions using pupil size variation**  
-    *Rezayat, E.; **Parsian, M.**; Vahabi, A.*
-*   **Investigating the role of attention in facial expression recognition in peripheral vision**  
-    *Shakerian, F.; Rasulipour, R.; Baghdadi, N.; **Parsian, M.***
-*   **Prediction of Supernatural Beliefs from the Empathizing-Systemizing Cognitive Style**  
-    *Abbasi, M.; **Parsian, M.***
-*   **Deep learning for neuroimaging-based diagnosis of autism spectrum disorder: a review**  
-    *Rostami, R.; Baghdadi, N.; **Parsian, M.***
 
 ---
 
