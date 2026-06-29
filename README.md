@@ -1,95 +1,73 @@
-# 码志
+# 🌟 Hi there, I'm Mohammad Parsian! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7W/giphy.gif" width="28">
 
-我的个人博客：<https://mazhuang.org>，欢迎 Star 和 Fork。
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Machine+Learning+Engineer;Data+Scientist;Python+Enthusiast;Data+Scraper;Always+Learning+New+Algorithms&font=Fira+Code&center=true&width=500&height=50&color=25a4d3" alt="Typing SVG">
+</p>
 
-## 概览
+<p align="center">
+  <a href="https://github.com/online6731">
+    <img src="https://img.shields.io/github/followers/online6731?label=Followers&style=social" alt="Followers">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://kaggle.com/online6731" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-Profile-blue?style=flat&logo=kaggle&logoColor=white" alt="Kaggle">
+  </a>
+</p>
 
-<!-- vim-markdown-toc GFM -->
+---
 
-* [效果预览](#效果预览)
-* [Fork 指南](#fork-指南)
-* [使用文档](#使用文档)
-* [经验与思考](#经验与思考)
-* [联系我](#联系我)
-* [致谢](#致谢)
+### 🚀 About Me
+I am a passionate **Data Scientist** and **Machine Learning Engineer** focused on building intelligent systems, training robust predictive models, and uncovering insights from data. I enjoy exploring natural language processing (NLP), computer vision, and building efficient web crawlers to gather raw data.
 
-<!-- vim-markdown-toc -->
+- 🔭 **Current Focus:** Deep Learning & Advanced NLP Architectures.
+- 🎓 **Background:** Computer Science / Data Engineering.
+- 💬 **Ask me about:** Python, Web Scraping, Feature Engineering, and Classical ML models.
+- 📫 **How to reach me:** `mohammad.parsian.work@gmail.com` (Or insert your email / LinkedIn / Telegram)
+- ⚡ **Fun Fact:** I believe a good Jupyter Notebook is a work of art! 🎨
 
-## 效果预览
+---
 
-**[在线预览 &rarr;](https://mazhuang.org)**
+### 🛠️ Tech Stack & Toolbox
 
-![screenshot home](https://mazhuang.org/assets/images/screenshots/home.png)
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" /> |
+| **Machine Learning & DL** | <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" /> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" /> <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" /> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" /> |
+| **Data Analysis & Processing** | <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/Matplotlib-3F4E4F?style=flat-square" /> <img src="https://img.shields.io/badge/Seaborn-4C566A?style=flat-square" /> |
+| **Scraping & Crawling** | <img src="https://img.shields.io/badge/BeautifulSoup-013243?style=flat-square" /> <img src="https://img.shields.io/badge/Scrapy-60A830?style=flat-square&logo=scrapy&logoColor=white" /> |
+| **Platforms & Tools** | <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" /> <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=google-colab&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" /> |
 
-## Fork 指南
+---
 
-Fork 本项目之后，还需要做一些事情才能让你的页面「正确」跑起来。
+### 📁 Featured Projects
 
-1. 正确设置项目名称与分支。
+Here are some of the key repositories I've built:
 
-   按照 GitHub Pages 的规定，名称为 `username.github.io` 的项目的 master 分支，或者其它名称的项目的 gh-pages 分支可以自动生成 GitHub Pages 页面。
+*   **🔍 [Content-Based Image Retrieval](https://github.com/online6731/Content-Based-Image-Retrieval)**  
+    *An image search engine using advanced content analysis on the Oxford 5k Dataset.*
+*   **📊 [Boolean Retrieval Search Engine](https://github.com/online6731/Boolean-Retrieval)**  
+    *A fundamental search engine implementation utilizing Boolean queries and inverted indexes.*
+*   **🕸️ [Simple Web Crawler](https://github.com/online6731/Simple-Web-Crawler-notebook)**  
+    *A crawler notebook designed for quick data gathering and parsing from online targets.*
+*   **🚢 [Titanic Survival Prediction](https://github.com/online6731/titanic-kaggle)** & **🏠 [House Pricing prediction](https://github.com/online6731/House-Pricing-kaggle)**  
+    *My implementations of well-known Kaggle data science benchmarks with rigorous exploratory data analysis (EDA).*
 
-2. 修改域名。
+---
 
-   如果你需要绑定自己的域名，那么修改 CNAME 文件的内容，并参考 [配置 GitHub Pages 站点的自定义域](https://docs.github.com/cn/pages/configuring-a-custom-domain-for-your-github-pages-site) 做好配置；如果不需要绑定自己的域名，那么删掉 CNAME 文件。
+### 📊 GitHub & Coding Stats
 
-3. 修改配置。
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=online6731&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" alt="Mohammad's GitHub Stats" width="48%" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=online6731&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" alt="Top Languages" width="48%" />
+</p>
 
-   网站的配置基本都集中在 \_config.yml 文件中，将其中与个人信息相关的部分替换成你自己的，比如网站的 url、title、subtitle 和第三方评论模块的配置等。
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=online6731&theme=tokyonight&hide_border=true&border_radius=10" alt="Mohammad's Commit Streak" width="98%" />
+</p>
 
-   **评论模块：** 目前支持 disqus、gitment 和 gitalk，选用其中一种就可以了，推荐使用 gitalk。它们各自的配置指南链接在 \_config.yml 文件的 Comments 一节里都贴出来了。
+---
 
-   **注意：** 如果使用 disqus，因为 disqus 处理用户名与域名白名单的策略存在缺陷，请一定将 disqus.username 修改成你自己的，否则请将该字段留空。我对该缺陷的记录见 [Issues#2][3]。
-
-4. 删除我的文章与图片。
-
-   如下文件夹中除了 template.md 文件外，都可以全部删除，然后添加你自己的内容。
-
-   * \_posts 文件夹中是我已发布的博客文章。
-   * \_drafts 文件夹中是我尚未发布的博客文章。
-   * \_wiki 文件夹中是我已发布的 wiki 页面。
-   * images 文件夹中是我的文章和页面里使用的图片。
-
-5. 修改「关于」页面。
-
-   pages/about.md 文件内容对应网站的「关于」页面，里面的内容多为个人相关，将它们替换成你自己的信息，包括 \_data 目录下的 skills.yml 和 social.yml 文件里的数据。
-
-## 使用文档
-
-- [本博客模板常见问题 Q & A](https://mazhuang.org/2020/05/03/blog-template-qna/)。
-
-- 在本地预览博客效果可以参考 [Setting up your Pages site locally with Jekyll][2]。
-
-## 经验与思考
-
-* 排版建议遵照一定的规范，推荐 [中文文案排版指北（简体中文版）][1]。
-
-* 简约，尽量每个页面都不展示多余的内容。
-
-* 有时一图抵千言，有时可能只会拖慢网页加载速度。
-
-* 言之有物，不做无痛之呻吟。
-
-* 如果写技术文章，那先将技术原理完全理清了再开始写，一边摸索技术一边组织文章效率较低。
-
-* 杜绝难断句、难理解的长句子，如果不能将其拆分成几个简洁的短句，说明脑中的理解并不清晰。
-
-* 可以学习一下那些高质量的博主，他们的行文，内容组织方式，有什么值得借鉴的地方。
-
-## 联系我
-
-如果对本博客模板或者内容有任何建议，可以通过 [Issues](https://github.com/mzlogin/mzlogin.github.io/issues) 或者微信公众号「闷骚的程序员」与我取得联系。
-
-<img width="192px" height="192px" src="https://mazhuang.org/assets/images/qrcode.jpg"/>
-
-## 致谢
-
-本博客外观基于 [DONGChuan](https://dongchuan.github.io) 修改，感谢！
-
-Thanks for JetBrains' support.
-
-<a href="https://www.jetbrains.com/?from=mzlogin.github.io"><img src="./assets/images/jetbrains.svg"/></a>
-
-[1]: https://github.com/mzlogin/chinese-copywriting-guidelines
-[2]: https://help.github.com/articles/setting-up-your-pages-site-locally-with-jekyll/
-[3]: https://github.com/mzlogin/mzlogin.github.io/issues/2
+<p align="center">
+  <sub>Let's connect! Feel free to star my repositories if you find them helpful. 🌟</sub>
+</p>
