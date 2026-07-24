@@ -1,7 +1,7 @@
 # 🌟 Hi there, I'm Mohammad Parsian! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7W/giphy.gif" width="28">
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Cognitive+Science+Researcher;AI+%26+Deep+Learning+Engineer;Neuroimaging+Data+Analyst;Computer+Engineer&font=Fira+Code&center=true&width=500&height=50&color=25a4d3" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Large+Language+Models;Applied+AI+Engineer;AI+in+Research+Group+Founder;Cognitive+Science+Researcher&font=Fira+Code&center=true&width=500&height=50&color=25a4d3" alt="Typing SVG">
 </p>
 
 <p align="center">
@@ -25,23 +25,16 @@
 ---
 
 ### 🚀 About Me
-I am a **Cognitive Science Researcher** and **Machine Learning Engineer** with a solid foundation in **Computer Engineering**. My primary research interest lies in understanding the brain and cognitive disorders by combining **Brain Signals (EEG, fMRI, fNIRS, Eye-Tracking)** with **Artificial Intelligence**. 
-
-- 🎓 **M.Sc. in Cognitive Science** from the *University of Tehran* (Overall GPA: 18.26/20).
-- 🎓 **B.Sc. in Computer Engineering** from *Bu-Ali Sina University*.
-- 🥇 **Rank 1** in the Nationwide University Entrance Exam for Master's Degree in Cognitive Science (2022).
-- 🔬 **Research Focus:** Deep learning for neuroimaging-based diagnosis (Alzheimer's, Autism), emotion classification using pupil size variation, and cognitive psychology tasks.
+Hi, I'm Mohammad Parsian. I hold a bachelor's degree in computer engineering and a master's degree in cognitive science from the University of Tehran, where I ranked first in the entrance exam. I've competed in several ACM programming contests, and my best result was 13th in the ACM Asia West Regional. I also ranked second in a national deep learning competition focused on medical image analysis and earned first place in the Iran Annual AI Award. Beyond my academic work, I founded the AI in Research Group, where we help researchers and professionals use AI effectively. We've delivered AI workshops at several universities, including the University of Tehran. and I've worked on practical AI based solutions that bridge technology and business needs including retrieval-based question answering systems and automation tools for real-world organizations. My current focus is on large language models and their real-world applications in areas such as enterprise automation, healthcare and research. I'm pursuing a PhD to deepen my research and help build reliable AI systems that solve real-world problems.
 
 ---
 
 ### 🏆 Honors & Awards
 
-*   🥇 **1st Place** – Iran Annual AI Award (2024)
-*   🥇 **1st Rank** – Nationwide University Entrance Exam for M.Sc. in Cognitive Science (2022)
-*   🥈 **2nd Place** – National fNIRS Data Analysis Competition (BCI systems for movement disorders), National Brain Mapping Laboratory (2022)
-*   🥇 **1st Place** – Iran West Region Programming Contest (2019)
-*   🏅 **13th & 14th Place** – West Asia Regional ACM-ICPC Contest (2018, 2017)
-*   🥇 **1st Place** – PAYA League (International Mathematics Competition) (2013)
+*   🥇 **1st Place** – Iran Annual AI Award
+*   🥈 **2nd Place** – National Deep Learning Competition focused on Medical Image Analysis
+*   🏅 **13th Place** – Best result in the ACM Asia West Regional
+*   🥇 **Rank 1** – Entrance Exam for the M.Sc. in Cognitive Science at the University of Tehran
 
 ---
 
@@ -51,6 +44,7 @@ I am a **Cognitive Science Researcher** and **Machine Learning Engineer** with a
 | :--- | :--- |
 | **Languages** | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/MATLAB-ED1C24?style=flat-square&logo=mathworks&logoColor=white" /> <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" /> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" /> |
 | **AI, ML & Deep Learning** | <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" /> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" /> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" /> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" /> |
+| **LLMs & Applied AI** | Large language models, retrieval-based question answering, enterprise automation, and AI applications in healthcare and research |
 | **Data Analysis & Processing** | <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/Seaborn-4C566A?style=flat-square" /> <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square" /> |
 | **Psychological Toolbox** | <img src="https://img.shields.io/badge/Psychtoolbox-MATLAB-blue?style=flat-square" /> <img src="https://img.shields.io/badge/PsychoPy-Python-green?style=flat-square" /> |
 | **Research & Dev Tools** | <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white" /> <img src="https://img.shields.io/badge/Zotero-CC0000?style=flat-square&logo=zotero&logoColor=white" /> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" /> |
